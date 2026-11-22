@@ -82,6 +82,8 @@ Meta interviews each candidate against a target level, and the loop can confirm 
 
 Related free guides: [Software Engineer Levels](https://github.com/design-gurus/software-engineer-levels/blob/main/companies/meta.md), [Grokking System Design](https://github.com/design-gurus/grokking-system-design), [Grokking Coding Interview](https://github.com/design-gurus/grokking-coding-interview), [Staff Engineer Interview](https://github.com/design-gurus/staff-engineer-interview), and [Engineering Manager Interview](https://github.com/design-gurus/engineering-manager-interview).
 
+For the system design round, see [Grokking System Design](https://github.com/design-gurus/grokking-system-design), the free companion guide with 30 patterns, 59 question walkthroughs, and 35 cheat sheets.
+
 ## Contributing
 
 Corrections, new questions, and reports of how a Meta loop was run are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
